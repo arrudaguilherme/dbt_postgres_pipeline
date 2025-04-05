@@ -9,4 +9,4 @@ northwind:
       port: 5432
       dbname: "{{env_var('DB_NAME')}}"
       schema: public
-      threads: 4
+      threads: 4 
